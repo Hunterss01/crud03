@@ -1,5 +1,5 @@
 .form-control {
-    border-radius: 25px;
+    border-radius: 29px;
 }
 
 .tabela {
@@ -18,4 +18,5 @@
 
 body {
     margin: 0;
+    background-color: #a52f2a;
 }
